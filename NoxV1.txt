@@ -1,0 +1,47 @@
+Project Nox v1
+
+
+Current projects state is "Alpha"
+
+All Client and Source is running and online stable for play.
+*Server is untested, more information later on.*
+
+
+Current information for the server as of v1.0.0a
+
+119 OSRS DATA
+Full Cerberus
+Crazy Archaeologist
+Scorpia
+Chaos FanaticFull Demonic Gorillas with Prayer Switching
+Zulrah
+20+ BossesBoss Tracker Interface
+Achievements
+Pre-load gears
+Ballista, Dragon WarHammer & other weapons in correct formulas
+Improved buying/sellings systems
+Better handling stuff rather than PI shitty systems
+Veng + Barrage Timers
+Unique Kill-Streak System
+All Wilderness Bosses
+Full Kraken
+Rewritten Skills (Runecrafting, Hunter, Agility)
+Premade Gear
+Max Hit
+Full OSRS Bounty Hunter
+Help database system
+Perfect Combat
+Clipped Player & Npc following
+Clipped Projectiles
+Clipped 119 maps & objects
+Pet Insurance
+Boss Pets
+Bank Tabs
+Rare Drop announcement system
+Perfect Minigames
+Perfect Items kept on death system
+Untradeables banked after death
+Donation Bonds, tickets with shop
+Vote point shop
+Dice 1/100 command ::roll
+much more.
